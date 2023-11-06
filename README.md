@@ -90,6 +90,7 @@ print(f"Predicted color for RGB {new_rgb_value}: {predicted_color}")
 
 ### Output:
 
+![image](https://github.com/sathiya7g/experiment-13/blob/main/Screenshot%202023-11-02%20082640.jpeg)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
