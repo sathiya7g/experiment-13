@@ -1,6 +1,6 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221220049
+### REGISTER NUMBER : 212221220007
 ### AIM: 
 To write a program to train the classifier for RGB color predection
 ###  Algorithm:
